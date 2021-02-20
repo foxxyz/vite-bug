@@ -1,0 +1,11 @@
+{
+  "name": "localpack",
+  "version": "0.0.1",
+  "description": "Test local package",
+  "main": "index.js",
+  "author": "Ivo Janssen",
+  "browser": {
+    "events": false
+  },
+  "license": "ISC"
+}
